@@ -1,2 +1,1 @@
-# CBHuffman
-CB Huffman
+# Data Compression through huffman coding
